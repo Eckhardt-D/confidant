@@ -2,7 +2,7 @@
   "name": "@eckidevs/confidant",
   "description": "Define and load configuration files in a typesafe manner",
   "type": "module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",

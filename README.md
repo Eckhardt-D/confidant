@@ -38,7 +38,7 @@ import { loadConfig } from '@eckidevs/confidant';
 import { configDefinition } from './config';
 
 // 'development' can be replaced with e.g. process.env.NODE_ENV
-const config = loadConfig(config, 'development', process.env);
+const config = loadConfig(configDefinition, 'development', process.env);
 /*
   {
     staticValue: 'Hello, World!',
