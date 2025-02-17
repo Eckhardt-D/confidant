@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Recommended",
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "nodenext",
+    "lib": ["DOM", "es2022"],
+    "declaration": true,
+    "declarationMap": true,
+    "moduleResolution": "nodenext",
+    "moduleDetection": "force",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "composite": false,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
