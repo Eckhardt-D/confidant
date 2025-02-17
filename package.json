@@ -1,7 +1,8 @@
 {
   "name": "@eckidevs/confidant",
+  "description": "Define and load configuration files in a typesafe manner",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -42,5 +43,9 @@
     "tsup": "^8.3.6",
     "typescript": "^5.7.3",
     "vitest": "^3.0.5"
-  }
+  },
+  "author": "Eckhardt Dreyer <eckhardt@dreyer.com.na> (https://eckhardt.dreyer.com.na)",
+  "homepage": "https://github.com/Eckhardt-D/confidant",
+  "license": "MIT",
+  "repository": "Eckhardt-D/confidant"
 }
